@@ -32,7 +32,6 @@ yarn-error.log*
 lcov.info
 .vscode
 package-lock.json
-abis
 
 # factories
 !src/types/factories
