@@ -19,7 +19,6 @@ out
 data
 tenderly/
 snapshots
-abis/
 
 # files
 *.env
